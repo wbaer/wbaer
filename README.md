@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Bill Baer is a Senior Product Manager and Microsoft Certified Master for Microsoft Search, Assistant, and Intelligence at Microsoft in Redmond, Washington working on Microsoft Search and Cortana; having previously worked at Hewlett-Packard.
+
+While at Hewlett-Packard Bill Baer was awarded the MVP award for his contributions in the Technology Solutions Group, now known as HP Enterprise Business, which encompasses server and storage hardware, technology consulting, and software sales. In addition Bill Baer has deep industry experience having worked for Apple Inc., First Data Corporation, Digital Equipment Corporation, Quantum Corporation, Compaq Computer Corporation, Hewlett-Packard, and Microsoft Corporation.
+
 <!--
 **wbaer/wbaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
